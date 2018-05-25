@@ -1,0 +1,4 @@
+I have taken data containing 60 independent and 1 categorical dependent variable.I have applied DeepNeuralNets in my approach.
+I have used four hidden layers and the results are shown on mse and accuracy plots.
+Gradient descent has been used to reach the optimum solution and saturation is observed around 700-800 epochs.
+Shuffling has been done from time to time to prevent any case of generalization.
